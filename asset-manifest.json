@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/Game-Design-2-Blog/static/css/main.2058d0e8.css",
-    "main.js": "/Game-Design-2-Blog/static/js/main.8e9d2066.js",
+    "main.css": "/Game-Design-2-Blog/static/css/main.8b06dbc6.css",
+    "main.js": "/Game-Design-2-Blog/static/js/main.7dedd332.js",
     "static/js/787.3055e3ee.chunk.js": "/Game-Design-2-Blog/static/js/787.3055e3ee.chunk.js",
+    "static/media/example2.png": "/Game-Design-2-Blog/static/media/example2.87ff8f94054dfbfab64c.png",
     "static/media/welcome.png": "/Game-Design-2-Blog/static/media/welcome.8442964de92613d9f320.png",
+    "static/media/example3.png": "/Game-Design-2-Blog/static/media/example3.70f5c91d44d6b481b087.png",
+    "static/media/example1.png": "/Game-Design-2-Blog/static/media/example1.581d52c9a52e293981a7.png",
     "static/media/logo.svg": "/Game-Design-2-Blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Game-Design-2-Blog/index.html",
-    "main.2058d0e8.css.map": "/Game-Design-2-Blog/static/css/main.2058d0e8.css.map",
-    "main.8e9d2066.js.map": "/Game-Design-2-Blog/static/js/main.8e9d2066.js.map",
+    "main.8b06dbc6.css.map": "/Game-Design-2-Blog/static/css/main.8b06dbc6.css.map",
+    "main.7dedd332.js.map": "/Game-Design-2-Blog/static/js/main.7dedd332.js.map",
     "787.3055e3ee.chunk.js.map": "/Game-Design-2-Blog/static/js/787.3055e3ee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2058d0e8.css",
-    "static/js/main.8e9d2066.js"
+    "static/css/main.8b06dbc6.css",
+    "static/js/main.7dedd332.js"
   ]
 }
